@@ -74,6 +74,8 @@ function editCar() {
         editingCar.anio = anio
         editingCar.precio = precio
         editingCar = false;
+
+        printCars();
     
         document.getElementById('marca').value = ''
         document.getElementById('modelo').value = ''
