@@ -46,7 +46,7 @@ function printCars(){
                                                                 <img src="https://image.flaticon.com/icons/png/128/1345/1345823.png" alt="icono" class="icon">
                                                             </button>
                                                             <button class="btn btn-outline-warning" onclick="editButton(${car.id})">Editar
-                                                                <img src="https://cdn.icon-icons.com/icons2/1788/PNG/128/nuticon_114497.png" alt="icono" class="icon">
+                                                                <img src="https://i.pinimg.com/originals/79/c0/c6/79c0c68aa4ecbf670ea66447d9cf2426.png" alt="tuerca" class="icon">
                                                             </button>
                                                         </td>
                                                     </tr>`)
